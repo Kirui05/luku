@@ -1,0 +1,4 @@
+2023-07-19T12:05:39+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\luku\wp-content\plugins\elementor-pro\modules\forms\submissions\personal-data.php on line 8
+
+2023-07-19T23:31:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\luku\wp-includes\Requests\src\Transport\Curl.php on line 510
+

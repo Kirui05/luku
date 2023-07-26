@@ -1,0 +1,12 @@
+2023-07-22T11:22:03+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\luku\wp-content\plugins\contact-form-7\includes\swv\swv.php on line 48
+
+2023-07-22T11:40:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\luku\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php on line 65
+
+2023-07-22T14:56:30+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\luku\wp-includes\Requests\src\Iri.php on line 72
+
+2023-07-22T14:56:30+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\luku\wp-content\plugins\woocommerce\includes\gateways\paypal\class-wc-gateway-paypal.php on line 15
+
+2023-07-22T14:56:51+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\luku\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\RoutesController.php on line 92
+
+2023-07-22T14:56:54+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\luku\wp-includes\Requests\src\Transport\Curl.php on line 510
+

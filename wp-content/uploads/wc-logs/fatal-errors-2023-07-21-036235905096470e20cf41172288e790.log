@@ -1,0 +1,4 @@
+2023-07-21T13:01:54+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\luku\wp-content\plugins\litespeed-cache\src\task.cls.php on line 12
+
+2023-07-21T23:26:15+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\luku\wp-includes\functions.php on line 6651
+

@@ -1,0 +1,6 @@
+2023-07-17T10:24:06+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\luku\wp-includes\class-wpdb.php on line 2431
+
+2023-07-17T10:24:06+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\luku\wp-content\plugins\woo-m-pesa-payment-gateway\Woocommerce_mpesa.php on line 126
+
+2023-07-17T21:15:18+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\luku\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskLists.php on line 73
+

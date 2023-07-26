@@ -1,0 +1,6 @@
+2023-07-24T10:18:45+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\luku\wp-content\themes\woostify\inc\widget\class-woostify-recent-post-thumbnail.php on line 8
+
+2023-07-24T12:17:57+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\luku\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Assets\Api.php on line 97
+
+2023-07-24T13:09:49+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\luku\wp-content\plugins\elementor\core\upgrade\custom-tasks-manager.php on line 7
+
